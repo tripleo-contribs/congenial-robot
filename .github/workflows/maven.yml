@@ -32,12 +32,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-maven-
 
-      - name: Surefire with Maven
+      - name: Run tests
         run: mvn -B --file pom.xml test
 
-      - name: Package with Maven
+      - name: package with Maven
         run: mvn -B --file pom.xml package
-
-      # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
-##      - name: Update dependency graph
-##        uses: advanced-security/maven-dependency-submission-action@df268dd1684fb95352aa463056e3cf41f9acb94b
