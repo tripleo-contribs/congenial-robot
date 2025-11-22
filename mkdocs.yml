@@ -1,0 +1,17 @@
+site_name: Thy Elijjah Programming Language, Congenial Robot
+theme:
+  name: material
+  palette:
+    scheme: preference
+  font: false
+repo_url: https://github.com/elijah-team/congenial-robot
+repo_name: elijah-team/congenial-robot
+#plugins:
+#  - git-revision-date-localized
+markdown_extensions:
+  - def_list
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
