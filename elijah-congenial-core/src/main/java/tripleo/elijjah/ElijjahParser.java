@@ -2,8 +2,8 @@
 
 package tripleo.elijjah;
 
-import antlr.*;
-import antlr.collections.impl.BitSet;
+import tripleo.vendor.antlr277.*;
+import tripleo.vendor.antlr277.collections.impl.BitSet;
 import org.jetbrains.annotations.Nullable;
 import tripleo.elijah_durable_congenial.comp.internal.Out;
 
@@ -24,7 +24,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @SuppressWarnings("DataFlowIssue")
-public class ElijjahParser extends antlr.LLkParser implements ElijjahTokenTypes {
+public class ElijjahParser extends tripleo.vendor.antlr277.LLkParser implements ElijjahTokenTypes {
 
 	public static final String[] _tokenNames  = {
 			"<0>",

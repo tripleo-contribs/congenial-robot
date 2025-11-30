@@ -1,6 +1,15 @@
 Elijah congenial-robot
 =======================
 
+
+Outstanding
+------------
+
+- `[WARNING] JAR will be empty - no content was marked for inclusion!`
+- b6131a94a052ca941de9f92c17ef6456d8687385
+
+----
+
 The elijah-lang compiler.
 
 https://github.com/elijah-team/congenial-robot

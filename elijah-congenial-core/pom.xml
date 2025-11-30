@@ -46,19 +46,6 @@
 			<version>1.19.0</version> 				<!-- Use 1.6 for java 1.5 -->
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/antlr/antlr -->
-		<dependency>
-			<groupId>antlr</groupId>
-			<artifactId>antlr</artifactId>
-			<version>2.7.7</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.jdeferred.v2</groupId>
-			<artifactId>jdeferred-core</artifactId>
-			<version>2.0.0</version>
-		</dependency>
-
 		<dependency>
 			<groupId>org.jetbrains</groupId>
 			<artifactId>annotations</artifactId>
