@@ -112,9 +112,9 @@
 								<sourceDir>src-bnxn/elijah-nextgen-outputstatement/src/test/java</sourceDir>
 <!--
 								<sourceDir>src-bnxn/elijah-stateful/src/test/java</sourceDir>
+								<source>target/generated-test-sources/test-annotations</source>
 -->
 
-								<source>target/generated-test-sources/test-annotations</source>
 							</sourceDirs>
 						</configuration>
 					</execution>

@@ -8,7 +8,7 @@
  */
 package tripleo.elijah_durable_congenial.lang.impl;
 
-import antlr.Token;
+import tripleo.vendor.antlr277.Token;
 import tripleo.elijah_durable_congenial.lang.i.ExpressionList;
 import tripleo.elijah_durable_congenial.lang.i.IndexingItem;
 import tripleo.elijah_durable_congenial.lang.i.OS_Module;
