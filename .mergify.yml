@@ -1,4 +1,5 @@
-queue_rules: []
+queue_rules:
+  - name: default
 pull_request_rules:
   - name: Automatic merge
     description: Merge when PR passes all branch protection and has label automerge
