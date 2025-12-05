@@ -3,4 +3,4 @@
 #####22.3.3-java11
 ######idk what any of the above means
 java graalvm-community-17.0.9
-direnv 2.37.1
+direnv 2.35.0
