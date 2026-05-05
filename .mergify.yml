@@ -1,2 +1,4 @@
 queue_rules:
   - name: default3
+merge_protections_settings:
+  reporting_method: check-runs
