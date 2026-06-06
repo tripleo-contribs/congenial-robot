@@ -34,7 +34,7 @@ GOALS
 - More verification
   - on the road to correctness
 - Build confidence to reduce procrastination
-- 
+- Automate everything except actual work
 
 
 LINEAGE
@@ -50,7 +50,7 @@ LINEAGE
 TODO
 -----
 
-- Convert to ant
-- Finish vision
-- Stop fuddling
-- Stop fiddling (act is broken too, i dont think its just me)
+- Convert to ant (Might do ./bld)
+- Finish vision (what the hell is this?)
+- Stop fuddling (work on tests)
+- Stop fiddling (testing mergify now)
